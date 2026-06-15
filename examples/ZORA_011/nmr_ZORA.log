@@ -1,0 +1,36 @@
+<Apr16-2026> <13:38:56>  NMR 2019  RunTime: Apr16-2026 13:38:56  Nodes: 1  Procs: 8
+<Apr16-2026> <13:39:01>  CalcFitR12Fit
+<Apr16-2026> <13:39:13>  CalcFitCoeff
+<Apr16-2026> <13:41:42>  >>>> RDEIGZ
+<Apr16-2026> <13:41:42>  >>>> ZSIG
+<Apr16-2026> <13:41:42>  >>>> ZU1
+<Apr16-2026> <14:52:54>  >>>> ZSIGALL
+<Apr16-2026> <15:08:01>  NMR Shielding   I(1):        4329.61 ppm
+<Apr16-2026> <15:08:01>  >>>> ZSIGALL
+<Apr16-2026> <15:23:03>  NMR Shielding   C(24):        107.29 ppm
+<Apr16-2026> <15:23:03>  >>>> ZSIGALL
+<Apr16-2026> <15:38:09>  NMR Shielding   C(25):        115.67 ppm
+<Apr16-2026> <15:38:09>  >>>> ZSIGALL
+<Apr16-2026> <15:53:17>  NMR Shielding   C(26):         99.78 ppm
+<Apr16-2026> <15:53:17>  >>>> ZSIGALL
+<Apr16-2026> <16:08:28>  NMR Shielding   H(45):         27.13 ppm
+<Apr16-2026> <16:08:28>  >>>> ZSIGALL
+<Apr16-2026> <16:23:33>  NMR Shielding   H(44):         25.87 ppm
+<Apr16-2026> <16:23:33>  >>>> ZSIGALL
+<Apr16-2026> <16:38:42>  NMR Shielding   C(7):         152.28 ppm
+<Apr16-2026> <16:38:42>  >>>> ZSIGALL
+<Apr16-2026> <16:53:52>  NMR Shielding   C(8):         165.03 ppm
+<Apr16-2026> <16:53:52>  >>>> ZSIGALL
+<Apr16-2026> <17:09:02>  NMR Shielding   H(27):         30.21 ppm
+<Apr16-2026> <17:09:02>  >>>> ZSIGALL
+<Apr16-2026> <17:24:09>  NMR Shielding   H(28):         29.54 ppm
+<Apr16-2026> <17:24:09>  >>>> ZSIGALL
+<Apr16-2026> <17:39:16>  NMR Shielding   H(29):         29.85 ppm
+<Apr16-2026> <17:39:16>  >>>> ZSIGALL
+<Apr16-2026> <17:54:24>  NMR Shielding   H(30):         29.57 ppm
+<Apr16-2026> <17:54:24>  >>>> ZSIGALL
+<Apr16-2026> <18:09:30>  NMR Shielding   H(31):         29.65 ppm
+<Apr16-2026> <18:09:30>  >>>> ZSIGALL
+<Apr16-2026> <18:24:33>  NMR Shielding   H(32):         30.26 ppm
+<Apr16-2026> <18:24:33>  NORMAL TERMINATION
+<Apr16-2026> <18:24:33>  END
