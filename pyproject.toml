@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nmr-timing"
+version = "0.1.0"
+description = "Wall-time / core-hours analysis for ReSpect, ADF/ZORA and Gaussian NMR outputs"
+requires-python = ">=3.9"
+dependencies = ["pandas>=1.5", "openpyxl>=3.0"]
+
+[project.scripts]
+nmr-timing = "nmr_timing.cli:main"
